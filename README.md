@@ -1,5 +1,7 @@
 # Python APC PDU manager
 
+https://img.shields.io/github/last-commit/SchenkelT/PythonAPC
+
 A Python library for retrieving APC PDU's statistics using SNMPv1
 
 ## Modules
@@ -11,7 +13,7 @@ A Python library for retrieving APC PDU's statistics using SNMPv1
 Enter ip, port en community name for the device you want te control
 
 ``` bash
-Welkom to the APC Smart PDU control tool
+Welkom to the APC Smart PDU control toolp
 -----------------------------------------
 Enter the APC PDU ip address:
 Enter the APC PDU SNMP port:
@@ -20,7 +22,7 @@ Enter Cummunity name:
 
 ## Controling device
 
-Control a APC PDU using a simple Python menu. Choose what you want to get and the corresponding script will get the info from the PDU.
+Control a APC PDU using a simple Python menu. Choose what you want to get and the script will get the info from the PDU.
 
 ```bash
 APC Control options
@@ -34,9 +36,8 @@ APC Control options
 
 ## Gettings Help
 
-Do you have a question, suggestion or anything else? [open a new issue on Github](https://github.com/SchenkelT/Python-APC-PDU-Manager/issues)
+Do you have a question, suggestion or anything else? [open a new issue on Github](https://github.com/SchenkelT/PythonAPC/issues)
 
 ## Contributing
 
 Send a pull request or create an issue, to help the development of this application.
-
