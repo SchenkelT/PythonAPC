@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/SchenkelT/PythonAPC)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SchenkelT/PythonAPC)
 
-A Python library for retrieving APC PDU's statistics using SNMPv1
+A Python script for retrieving APC PDU's statistics using SNMPv1
 
 ## Modules
 
