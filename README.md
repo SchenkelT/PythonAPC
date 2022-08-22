@@ -1,7 +1,6 @@
 # Python APC PDU manager
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SchenkelT/PythonAPC)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/SchenkelT/PythonAPC)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SchenkelT/PythonAPC)
 
 A Python library for retrieving APC PDU's statistics using SNMPv1
