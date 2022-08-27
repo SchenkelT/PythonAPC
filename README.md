@@ -21,7 +21,7 @@ Enter the APC PDU SNMP port:
 Enter Cummunity name:
 ```
 
-## Controling device
+## Controlling device
 
 Control a APC PDU using a simple Python menu. Choose what you want to get and the script will get the info from the PDU.
 
