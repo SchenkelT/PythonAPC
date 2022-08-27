@@ -9,7 +9,7 @@ A Python script for retrieving APC PDU's statistics using SNMPv1
 
 * pysnmp
 
-## Connectiong to device
+## Connecting to device
 
 Enter ip, port en community name for the device you want te control
 
